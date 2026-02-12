@@ -1,8 +1,4 @@
-Here is a **professional, production-ready `README.md`** for your AI Coding Agent project.
 
-You can copy this directly into your repository.
-
----
 
 ```markdown
 # 🚀 AI Coding Agent
